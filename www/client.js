@@ -12,7 +12,7 @@ function updateNameValue(e) {
 }
 
 // URL to our Token Server
-const tokenServerURL = 'Enter the url to your token server here';
+const tokenServerURL = 'https://ws1-wilsonm.netlify.app/api/token-generator';
 
 
 
